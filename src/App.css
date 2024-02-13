@@ -1,0 +1,26 @@
+.App {
+  text-align:center; 
+}
+.para{
+  align-items: center;
+  height: 300px;
+  width: max-content;
+  text-align: center;
+  font-size: 20px;
+  color: rgb(224, 41, 99);
+  border-radius: 25px;
+  border-color: bisque;
+  background-color: antiquewhite;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn{
+margin-left: 10px;
+margin-right: 10px;
+background-color: bisque;
+border-radius: 10px;
+margin: 5px 5px 5px 5px;
+border-color: aqua;
+font-size: 20px;
+color: blue;
+justify-items: center;
+}
